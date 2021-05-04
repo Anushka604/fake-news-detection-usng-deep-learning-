@@ -1,3 +1,3 @@
 # fake-news-detection-usng-deep-learning-
-# language use python
+# Python
 still working on project
